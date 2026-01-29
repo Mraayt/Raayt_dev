@@ -1,5 +1,5 @@
 # Raayt_dev
-# Hi 👋, I'm Mohd Raayt
+# Hi 🖐, I'm Mohd Raayt
 
  B.Tech CSE Student  
  Aspiring Software Engineer  
