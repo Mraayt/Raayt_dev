@@ -1,10 +1,10 @@
 # Raayt_dev
-# Hi 🖐, I'm Mohd Raayt
+# Hii 🖐, I am Mohd Raayt
 
- B.Tech CSE Student  
- Aspiring Software Engineer  
- Currently learning: Salesforce, java , Git & GitHub  
- Goal: Become a professional developer by 2027  
+- B.Tech CSE Student  
+- Aspiring Software Engineer  
+- Currently learning: Salesforce, java , Git & GitHub  
+- Goal: Become a professional developer by 2027  
 
  ## Skills
 - Programming : C, Java (Basics), Apex
