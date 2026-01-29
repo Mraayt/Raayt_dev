@@ -17,4 +17,4 @@
 - Email: mraayt56@gmail.com
 - LinkedIn: ----
 
-“Good practice and Consistency makes a man perfect" .”
+“ Good practice and Consistency makes a man perfect ".
